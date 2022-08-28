@@ -1,0 +1,103 @@
+ 2021 0227 0209 50.3 L  19.410 -71.377 10.2  DOM 20 1.9 7.3LDOM 4.7CDOM 5.3WDOM1
+ SPEC AVERAGE  MO 17.0 ST349.2 OM  5.2 f0 1.47 R1.4220 AL 0.00 WI 20.0 MW  5.3 3
+ SPEC SD       MO  0.4 ST345.1 OM  0.5 f00.726 R0.6944 AL      WI      MW  0.3 3
+ GAP=191        5.29      19.8     7.9 20.4  0.6259E+02  0.2586E+02  0.1177E+03E
+ SPEC PCDRBH N MO 17.7 ST105.5 OM  6.3 f00.594 R2.8030 AL-0.00 WI 20.0 MW  5.8 3
+ SPEC PCDRBH N T1434 8 K 0.020 GD 81.6 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC HIDRBH N MO 17.1 ST755.5 OM  5.6 f0 1.90 R0.8763 AL-0.00 WI 20.0 MW  5.3 3
+ SPEC HIDRBH N T1434 9 K 0.020 GD 89.5 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC HMDRBH N MO 17.0 ST430.1 OM  5.3 f0 1.71 R0.9737 AL-0.00 WI 20.0 MW  5.2 3
+ SPEC HMDRBH N T143419 K 0.020 GD  139 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC CRPRBH N MO 16.9 ST 14.4 OM  5.2 f00.568 R2.9313 AL-0.00 WI 20.0 MW  5.2 3
+ SPEC CRPRBH N T143426 K 0.020 GD  160 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC AGPRBH N MO 16.7 ST185.4 OM  5.0 f0 1.53 R1.0882 AL-0.00 WI 20.0 MW  5.1 3
+ SPEC AGPRBH N T143430 K 0.020 GD  167 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC SDD BH N MO 16.5 ST 43.5 OM  4.8 f0 1.10 R1.5136 AL-0.00 WI 20.0 MW  5.0 3
+ SPEC SDD BH N T143426 K 0.020 GD  167 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC AOPRBH N MO 16.7 ST247.3 OM  4.9 f0 1.72 R0.9680 AL-0.00 WI 20.0 MW  5.1 3
+ SPEC AOPRBH N T143438 K 0.020 GD  197 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC NAVIBH N MO 17.5 ST999.9 OM  5.7 f0 3.66 R0.4549 AL-0.00 WI 20.0 MW  5.6 3
+ SPEC NAVIBH N T143433 K 0.020 GD  200 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC BADRBH N MO 16.9 ST999.9 OM  5.1 f0 2.48 R0.6714 AL-0.00 WI 20.0 MW  5.2 3
+ SPEC BADRBH N T143437 K 0.020 GD  208 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC CELPBH N MO 16.4 ST 79.7 OM  4.6 f0 1.45 R1.1483 AL-0.00 WI 20.0 MW  4.9 3
+ SPEC CELPBH N T143438 K 0.020 GD  212 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC NADRBH N MO 17.6 ST999.9 OM  5.8 f0 1.46 R1.1404 AL-0.00 WI 20.0 MW  5.7 3
+ SPEC NADRBH N T143440 K 0.020 GD  214 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC CADRBH N MO 17.6 ST548.6 OM  5.7 f0 1.13 R1.4735 AL-0.00 WI 20.0 MW  5.7 3
+ SPEC CADRBH N T143447 K 0.020 GD  245 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC ABDRBH N MO 17.0 ST231.6 OM  5.1 f0 1.34 R1.2425 AL-0.00 WI 20.0 MW  5.3 3
+ SPEC ABDRBH N T143445 K 0.020 GD  247 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC SC01BH N MO 17.5 ST138.0 OM  5.5 f00.788 R2.1129 AL-0.00 WI 20.0 MW  5.6 3
+ SPEC SC01BH N T143460 K 0.020 GD  288 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC SDDRBH N MO 17.0 ST 28.8 OM  5.0 f00.664 R2.5075 AL-0.00 WI 20.0 MW  5.3 3
+ SPEC SDDRBH N T1435 6 K 0.020 GD  317 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC JIDRBH N MO 16.8 ST 99.5 OM  4.7 f0 1.21 R1.3760 AL-0.00 WI 20.0 MW  5.1 3
+ SPEC JIDRBH N T143511 K 0.020 GD  362 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC REDRBH N MO 16.6 ST268.4 OM  4.5 f0 1.95 R0.8538 AL-0.00 WI 20.0 MW  5.0 3
+ SPEC REDRBH N T143511 K 0.020 GD  370 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC GRTKBH N MO 16.9 ST110.3 OM  4.7 f0 1.14 R1.4605 AL-0.00 WI 20.0 MW  5.2 3
+ SPEC GRTKBH N T143533 K 0.020 GD  480 VS 4.50 DE 3.40 Q0400.0 QA 0.70 Q1 1.00 3
+ 2019-02-04-1433-00S.MAN___186                                                 6
+ OLDACT:UP  19-02-04 14:45 OP:JMLC STATUS:               ID:20190204143300     3
+ OLDACT:ARG 19-02-04 14:40 OP:jaaf STATUS:               ID:20190204143300     3
+ ACTION:UP  19-02-04 14:47 OP:JMLC STATUS:               ID:20190204143300     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ SADR HZ EPg    D 1433 59.46  129                        142   -0.1010 36.3 309
+ SADR HN ESg      1434  7.30                             142    0.9210 36.3 309
+ SADR HN  IAML    1434  8.73        70.4 0.98                          36.3 309
+ ISS1 HZ EPg    D 1433 59.36   80                        142   -0.2010 36.4 309
+ ISS1 HN ESg      1434  7.49                             142    1.1010 36.4 309
+ PCDR BZ EPg    C 1434  0.91   77                        125   -0.7710 60.1  13
+ PCDR BN ESg      1434 10.39                             125    0.3210 60.1  13
+ PCDR HN  IAML    1434 12.59        84.8 0.85                          60.1  13
+ HIDR BZ EPg    D 1434  1.32   90                        119   -1.4210 70.4 342
+ HIDR BN ESg      1434 10.77                             119   -1.1510 70.4 342
+ HIDR HN  IAML    1434 11.60        41.4 0.30                          70.4 342
+ HMDR BZ EPg    D 1434  7.35   85                        102   -1.9710  128 314
+ HMDR BN ESg      1434 20.80                             102   -2.5710  128 314
+ HMDR HN  IAML    1434 21.90        35.8 0.90                           128 314
+ CRPR BZ EPg    C 1434 11.48  161                         98   -0.5510  151  89
+ CRPR BN ESg      1434 27.75                              98   -0.3410  151  89
+ CRPR HN  IAML    1434 28.63     14438.5 0.40                           151  89
+ AGPR BZ EPg    C 1434 12.58  141                         97   -0.3010  158  70
+ SDD  BZ EPg    C 1434 11.47  125                         97   -1.4010  158 290
+ SDD  BN ESg      1434 28.33                              97   -1.2310  158 290
+ AGPR BN ESg      1434 31.61                              97    2.0510  158  70
+ AGPR HN  IAML    1434 32.86     40941.8 0.55                           158  70
+ SDD  HN  IAML    1434 32.28     27349.9 0.70                           158 290
+ AOPR BZ EPg      1434 16.07  122                         94   -0.7610  190  78
+ AOPR BN ESg      1434 40.09                              94    3.6510  190  78
+ AOPR HN  IAML    1434 45.06     44340.4 0.30                           190  78
+ NAVI BZ EPg    C 1434 14.95  104                         94   -2.2410  193 304
+ NAVI BN ESg      1434 34.89                              94   -2.1710  193 304
+ NAVI HN  IAML    1434 38.01        64.9 0.20                           193 304
+ BADR BZ EPg    C 1434 17.40  133                         94   -0.7710  201 283
+ BADR BN ESg      1434 39.32                              94    0.5410  201 283
+ BADR HN  IAML    1434 44.12     81592.8 0.30                           201 283
+ CELP BZ EPg    C 1434 17.77  152                         94   -0.8610  205  87
+ CELP BN ESg      1434 39.90                              94    0.3410  205  87
+ CELP HN  IAML    1435  6.93     10296.7 0.80                           205  87
+ NADR BZ EPg      1434 17.78  143                         94   -1.1010  207 317
+ NADR BN ESg      1434 41.83                              94    1.8310  207 317
+ NADR HN  IAML    1434 43.13        28.7 0.50                           207 317
+ CADR BZ EPg      1434 22.04  144                         93   -0.6910  239 321
+ CADR BN ESg      1434 48.58                              93    1.8810  239 321
+ CADR HN  IAML    1434 50.38        20.0 0.50                           239 321
+ ABDR BZ EPg    C 1434 22.23  138                         93   -1.0510  241 293
+ ABDR BN ESg      1434 47.04                              93   -0.6210  241 293
+ ABDR HN  IAML    1434 56.76     37223.2 0.80                           241 293
+ SC01 BZ EPg      1434 27.74  163                         92   -0.2910  283 305
+ SC01 BN ESg      1435  1.70                              92    5.7710  283 305
+ SC01 HN  IAML    1435  3.30     59442.3 1.40                           283 305
+ SDDR BZ EPg    D 1434 33.20  162                         92    1.4510  313 291
+ SDDR BN ESg      1435  8.45                              92    6.0510  313 291
+ SDDR HN  IAML    1435 24.50     17750.4 0.60                           313 291
+ JIDR BZ EPg    D 1434 37.67  188                         91    0.5910  358 280
+ JIDR BN ESg      1435 12.89                              91    1.2110  358 280
+ JIDR HN  IAML    1435 16.69     16272.6 0.50                           358 280
+ REDR BZ EPg    C 1434 36.99  188                         91   -1.1110  366 294
+ REDR HN  IAML    1435 32.36     15095.8 1.05                           366 294
+ GRTK BZ EPg    C 1434 48.88  210                         91   -2.6710  477 325
+ GRTK BN ESg      1435 35.46                              91   -1.3910  477 325
+ GRTK HN  IAML    1435 37.16      9820.6 0.55                           477 325

@@ -1,0 +1,40 @@
+#################################################################
+#################################################################
+El tk_hyper
+
+  El tk_hyper es un programa que formatea la salida de un archivo
+hyp.out generado a partir de las formas de ondas sismicas registradas
+por las estaciones locales y regionales y analizadas en seisan.
+
+  Este archivo generado por seisan, nos da toda la informacion del sismo
+analizado de los cuales el tk_hyper extrae la fecha, hora, latitud,
+longitud, profundidad, magnitud. luego con estos datos el tk_hyper
+genera comentario diciendo la ciudad importante mas cercana, la distancia
+a esta del sismo y que provincia o poligono, ejemplo Mar Caribe.
+
+  Luego de haberse generado el comentario el tk_hyper enviara un mensaje
+por correo del formato de salida amigable con su comentario a los
+correos importantes en el campo, tambien inserta el comentario en los
+archivos que guarda seisan en su base de datos y envia a la pagina
+los datos del evento.
+
+#######################################################################
+
+El archivo paths.txt
+
+Este archivo contiene 7 entradas que son parametros para el tk_hyper
+1) la direccion del archivo hyp.out
+2) la direccion del archivo que va a la pagina el dummyX.dat(creado
+  por el tk_hyper)
+3) la direccion donde va el catalogo( dummyX.copy )
+4) la direccion donde va el archivo json( db.json )
+5) el correo del servidor que envia los mensajes (reportesismico@gmail.com)
+6) la contrasena de ese correo
+7) la carpeta donde se estan guardando los archivos seisan para insertarle
+  el comentario generado por tk_hyper
+8) el valor minimo de profundidad en las zonas maritimas. Este valor
+   le indica a tk_hyper que si el la profundidad en las zonas maritimas
+   es menor que el, entonces la profundidad se ajusta a un valor minimo
+   de 10
+
+creado por Carlos Ramirez.

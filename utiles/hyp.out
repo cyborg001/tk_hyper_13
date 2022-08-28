@@ -1,0 +1,69 @@
+ 2021 0323 0535 36.8 R  18.139 -73.678  0.7  DOM 10 1.1 3.0LDOM 3.3CDOM 2.8WDOM1
+ SPEC AVERAGE  MO 13.3 ST 24.2 OM  2.2 f0 6.35 R0.5991 AL 0.00 WI 20.0 MW  2.8 3
+ SPEC SD       MO  0.6 ST 47.5 OM  0.5 f0 4.42 R0.9414 AL      WI      MW  0.4 3
+ GAP=189        2.72      12.7     7.2 12.9  0.6340E+02 -0.1194E+02  0.3766E+02E
+ LOCALITY: 207.9 Km al Oeste de Pedro Santana, Golfo de Gonaive.               3
+ SPEC MASCHH N MO 12.8 ST 16.4 OM  1.8 f0 9.92 R0.1194 AL-0.00 WI 20.0 MW  2.5 3
+ SPEC MASCHH N T 83610 K 0.020 GD  112 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC QMBUHH N MO 13.2 ST  2.9 OM  2.1 f0 4.23 R0.2799 AL-0.00 WI 20.0 MW  2.7 3
+ SPEC QMBUHH N T 83619 K 0.020 GD  128 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC GTBYBH N MO 12.9 ST 16.0 OM  1.8 f0 9.34 R0.1268 AL-0.00 WI 20.0 MW  2.5 3
+ SPEC GTBYBH N T 83622 K 0.020 GD  131 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC JIDRBH N MO 13.5 ST  1.2 OM  2.4 f0 2.40 R0.4933 AL-0.00 WI 20.0 MW  2.9 3
+ SPEC JIDRBH N T 83628 K 0.020 GD  143 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC NMDOHH N MO 12.5 ST  9.9 OM  1.4 f0 10.5 R0.1128 AL-0.00 WI 20.0 MW  2.3 3
+ SPEC NMDOHH N T 83632 K 0.020 GD  143 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC REDRBH N MO 13.4 ST163.8 OM  2.3 f0 13.4 R0.0884 AL-0.00 WI 20.0 MW  2.9 3
+ SPEC REDRBH N T 83628 K 0.020 GD  144 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC MCDRBH N MO 13.1 ST 31.2 OM  2.0 f0 9.57 R0.1237 AL-0.00 WI 20.0 MW  2.7 3
+ SPEC MCDRBH N T 83633 K 0.020 GD  150 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC NEDRBH N MO 13.4 ST0.264 OM  2.3 f0 1.53 R0.7739 AL-0.00 WI 20.0 MW  2.9 3
+ SPEC NEDRBH N T 83645 K 0.020 GD  156 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC SDDRBH N MO 13.4 ST0.669 OM  2.2 f0 2.24 R0.5286 AL-0.00 WI 20.0 MW  2.8 3
+ SPEC SDDRBH N T 83638 K 0.020 GD  158 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ SPEC MADRBH N MO 14.7 ST0.055 OM  3.5 f00.354 R3.3446 AL-0.00 WI 20.0 MW  3.7 3
+ SPEC MADRBH N T 83646 K 0.020 GD  165 VS 3.20 DE 2.60 Q0400.0 QA 0.70 Q1 1.00 3
+ 2021-02-26-0835-00S.MAN___132                                                 6
+ OLDACT:UP  21-02-26 11:15 OP:AMMR STATUS:               ID:20210226083500     3
+ OLDACT:UP  21-02-26 11:14 OP:AMMR STATUS:               ID:20210226083500     3
+ OLDACT:UP  21-02-26 11:12 OP:AMMR STATUS:               ID:20210226083500     3
+ OLDACT:ARG 21-02-26 10:46 OP:njm  STATUS:               ID:20210226083500     3
+ ACTION:UP  21-02-26 11:16 OP:AMMR STATUS:               ID:20210226083500     I
+ OLDACT:UP  21-02-26 11:15 OP:AMMR STATUS:               ID:20210226083500     3
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ MASC HZ IP     C  835 57.60   46                         90    0.3010  127 333
+ MASC HE IS     C  836 12.15                              90   -0.3210  127 333
+ MASC HN  IAML     836 14.83       176.7 0.30                           127 333
+ QMBU HZ IP     D  836  1.77   51                         50   -1.0610  166 314
+ QMBU HE IS     C  836 21.21                              50   -0.8810  166 314
+ QMBU HN  IAML     836 25.62       131.5 0.28                           166 314
+ GTBY BZ IP     C  836  3.57   58                         50   -0.1210  173 300
+ GTBY BE IS     D  836 24.22                              50    0.6210  173 300
+ GTBY BN  IAML     836 28.93       136.4 0.20                           173 300
+ GTBY HN  IAML     836 28.97       136.4 0.20                           173 300
+ JIDR BZ IP     D  836  6.91   58                         50   -0.7710  205 111
+ JIDR BE IS     C  836 30.15                              50   -0.3910  205 111
+ JIDR BN  IAML     836 37.07       114.4 0.40                           205 111
+ JIDR HN  IAML     836 42.90        76.5 1.55                           205 111
+ NMDO HZ IP     C  836  9.29   62                         50    1.3810  207 319
+ NMDO HE IS   3 C  836 33.60                              50    2.66 2  207 319
+ NMDO HN  IAML     836 36.73        43.0 0.40                           207 319
+ REDR BZ IP     C  836  6.54   55                         50   -1.5210  208  86
+ REDR BE IS     D  836 29.96                              50   -1.2410  208  86
+ REDR BN  IAML     836 30.47       480.7 0.20                           208  86
+ REDR HN  IAML     836 30.51       480.7 0.20                           208  86
+ MCDR BZ IP     D  836  9.79   61                         50   -0.5610  227  69
+ MCDR BE IS     C  836 35.46                              50    0.2710  227  69
+ MCDR BN  IAML     836 38.38       152.1 0.10                           227  69
+ MCDR HN  IAML     836 38.41       152.1 0.10                           227  69
+ NEDR BZ IP     D  836 14.22   60                         50    1.7310  244 107
+ NEDR BN  IAML     836 47.98        53.6 0.70                           244 107
+ NEDR HN  IAML     836 48.06        53.6 0.70                           244 107
+ SDDR BZ IP     C  836 14.54   57                         50    1.0510  252  94
+ SDDR BE IS     C  836 39.90                              50   -0.7410  252  94
+ SDDR BN  IAML     836 43.06        74.6 0.50                           252  94
+ SDDR HN  IAML     836 43.08        74.6 0.50                           252  94
+ MADR BZ IP   3 C  836 15.10   72                         50   -1.10 2  274  80
+ MADR BE IS     D  836 47.52                              50    2.1510  274  80
+ MADR BN  IAML     836 51.10       119.3 0.55                           274  80
+ MADR HN  IAML     836 51.15       119.3 0.55                           274  80
