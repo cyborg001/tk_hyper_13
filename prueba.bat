@@ -1,0 +1,1 @@
+%HOMEPATH%\myenv\Scripts\python.exe --version

@@ -643,7 +643,7 @@ def insertar_comentario(paths,formato,sentido):
     #print(formato["tipo_magni"])
     base = paths[6][:-1]
     ruta_hyp = paths[0][:-1]
-    lineas_hyp = open(ruta_hyp).readlines()
+    lineas_hyp = open(os.path.join('utiles',ruta_hyp)).readlines()
     region = lineas_hyp[0][21]
     id= ''
     for linea in lineas_hyp:

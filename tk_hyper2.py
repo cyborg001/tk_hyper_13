@@ -99,12 +99,11 @@ def mensaje():
     else:
         sentido = False
         sentido_local = ''
-    paths = open("paths.txt").readlines()
+    paths = open(os.path.join('utiles',"paths.txt")).readlines()
     path_poligonos = 'provinciascsv'
-    path_ciudades = 'localidades_2mundo.dat'
+    path_ciudades = os.path.join('utiles','localidades_2mundo.dat')
     hyp_path = paths[0][:-1]#'hyp.out'#r'Z:\seismo\WOR\hyp.out'
-
-    fpath = open(hyp_path)
+    fpath = open(os.path.join('utiles',hyp_path))
     #lineas = fpath.readlines()
     #fpath.close()
     #fpath = open(hyp_path)
