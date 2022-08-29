@@ -1,6 +1,5 @@
 tk
 requests
-email
 pylint
 pytest
 nbval

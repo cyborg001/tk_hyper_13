@@ -16,8 +16,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
-import eventsEndpoint as endpoint
-from eventsEndpoint import EventObj
+# import eventsEndpoint as endpoint
+# from eventsEndpoint import EventObj
 import re
 
 """ construye un lista con los pares de coordenadas del poligono que forma la ciudad
