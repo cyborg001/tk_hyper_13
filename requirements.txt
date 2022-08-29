@@ -1,6 +1,7 @@
-tkinter
-json
-threading
-smtplib
+tk
 requests
 email
+pylint
+pytest
+nbval
+pytest-cov
