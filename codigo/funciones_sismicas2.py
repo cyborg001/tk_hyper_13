@@ -16,8 +16,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
-# import eventsEndpoint as endpoint
-# from eventsEndpoint import EventObj
+import codigo.eventsEndpoint as endpoint
+from codigo.eventsEndpoint import EventObj
 import re
 
 """ construye un lista con los pares de coordenadas del poligono que forma la ciudad
@@ -699,9 +699,9 @@ def insertar_comentario(paths,formato,sentido):
 
 def EnviarEventoABD(nombre,sentido,formato):
     tipoMagnitud = formato['tipo_magni']
-    # enviarReq = endpoint.EventsEndpoint()
-    # reqResult=enviarReq.EnviarEvento(nombre,sentido,tipoMagnitud,formato)
-    # return reqResult
+    enviarReq = endpoint.EventsEndpoint()
+    reqResult=enviarReq.EnviarEvento(nombre,sentido,tipoMagnitud,formato)
+    return reqResult
     enviarReq = endpoint.EventsEndpoint()
     paths = open("paths.txt").readlines()
     path_poligonos = 'provinciascsv'

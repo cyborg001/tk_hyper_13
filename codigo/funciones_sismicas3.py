@@ -15,7 +15,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
-import eventsEndpoint as endpoint
+import codigo.eventsEndpoint as endpoint
 
 """ construye un lista con los pares de coordenadas del poligono que forma la ciudad
     como argumento recibe a path, la direccion de la carpeta donde estan los archivos

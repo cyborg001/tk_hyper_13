@@ -1,10 +1,11 @@
-import httpRequests as req
+import codigo.httpRequests as req
 import json
+import os
 
 class EventsEndpoint:
     serverData={}
     def __init__(self):
-        with (open('config.json')) as json_file:
+        with (open(os.path.join('utiles','config.json'))) as json_file:
             self.serverData=json.load(json_file)
         super().__init__()
 
