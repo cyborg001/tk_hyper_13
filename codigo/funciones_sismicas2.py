@@ -161,40 +161,8 @@ def generar_comentario(ciudades,lat,lon,file_provincias):
     t = 360 +t
   #print t,cuadrante
   #condiciones para las direcciones
-  if t < c:
-    direccion = direcciones[0]
-  if t >= c and t < c+q:
-    direccion = direcciones[1]
-  if t >= c+q and t < c+2*q:
-    direccion = direcciones[2]
-  if t >= c+2*q and t < c+3*q:
-    direccion = direcciones[3]
-  if t >= c+3*q and t < c+4*q:
-    direccion = direcciones[4]
-  if t >= c+4*q and t < c+5*q:
-    direccion = direcciones[5]
-  if t >= c+5*q and t < c+6*q:
-    direccion = direcciones[6]
-  if t >= c+6*q and t < c+7*q:
-    direccion = direcciones[7]
-  if t >= c+7*q and t < c+8*q:
-    direccion = direcciones[8]
-  if t >= c+8*q and t < c+9*q:
-    direccion = direcciones[9]
-  if t >= c+9*q and t < c+10*q:
-    direccion = direcciones[10]
-  if t >= c+10*q and t < c+11*q:
-    direccion = direcciones[11]
-  if t >= c+11*q and t < c+12*q:
-    direccion = direcciones[12]
-  if t >= c+12*q and t < c+13*q:
-    direccion = direcciones[13]
-  if t >= c+13*q and t < c+14*q:
-    direccion = direcciones[14]
-  if t >= c+14*q and t < c+15*q:
-    direccion = direcciones[15]
-  if t >= c+15*q and t < c+16*q:
-    direccion = direcciones[0]
+  index = int((t + c) / q) % 16
+  direccion = direcciones[index]
     #if n[0]== 'Elias Pina.csv':
              #   return 'Elias Piña'
             #if n[0]== 'Monsenor Nouel.cvs':
@@ -203,8 +171,8 @@ def generar_comentario(ciudades,lat,lon,file_provincias):
   if prov_pol == 'Monsenor Nouel':
     prov_pol = 'Monseñor Nouel'
   if prov_pol ==  'Elias Pina':
-    prov_pol ==  'Elias Piña'
-  comentario = str(v[2])+" Km al " + direccion+ " de " + v[3]+', '+prov_pol+'.'
+    prov_pol =  'Elias Piña'
+  comentario = f"{v[2]} Km al {direccion} de {v[3]}, {prov_pol}."
   return comentario
 
 #prov = de_que_provincia_es(,get_lat(lat))

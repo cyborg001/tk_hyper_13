@@ -1,7 +1,7 @@
-hyp.out
-dummyX.dat
-dummyX.copy
-db.json
+utiles\hyp.out
+utiles\dummyX.dat
+utiles\dummyX.copy
+utiles\db.json
 reportesismico@gmail.com
 sismologia1948
 Z:\seismo\REA\DOM01

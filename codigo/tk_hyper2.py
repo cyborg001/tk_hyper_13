@@ -17,7 +17,7 @@ version 1.2
 import sys
 import os
 import os.path
-import funciones_sismicas2 as fc
+import codigo.funciones_sismicas2_optimized_copy as fc
 import json
 
 PYTHON_VERSION = sys.version_info.major

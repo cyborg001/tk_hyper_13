@@ -103,7 +103,7 @@ def mensaje():
     path_poligonos = 'provinciascsv'
     path_ciudades = os.path.join('utiles','localidades_2mundo.dat')
     hyp_path = paths[0][:-1]#'hyp.out'#r'Z:\seismo\WOR\hyp.out'
-    fpath = open(os.path.join('utiles',hyp_path))
+    fpath = open(os.path.join(hyp_path))
     #lineas = fpath.readlines()
     #fpath.close()
     #fpath = open(hyp_path)

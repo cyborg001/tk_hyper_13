@@ -4,3 +4,9 @@ pylint
 pytest
 nbval
 pytest-cov
+pyinstaller
+scipy
+pandas
+numpy
+Pillow
+tkintermapview
