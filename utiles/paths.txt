@@ -6,6 +6,10 @@ reportesismico@gmail.com
 sismologia1948
 Z:\seismo\REA\DOM01
 http://127.0.0.1:8000/uploader/
+utiles\contactos-sini.txt
+utiles\contactos.txt
+
+
 https://cns-app.herokuapp.com/uploader/
 
 http://127.0.0.1:8000/uploader/
